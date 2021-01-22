@@ -28,3 +28,5 @@ Mac下部署步骤（亲测）：
 四、MetaMask
    使用 Ganache 提供的助记词 导入到 MetaMask中,选择 Custom RPC，添加一个网络：http://127.0.0.1:7545, 
    链ID使用的是1337 为什么 不是Ganache 中的 5777 ?
+
+五、test
